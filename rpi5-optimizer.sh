@@ -1,6 +1,6 @@
 #!/bin/bash
 # Raspberry Pi 5 – Optimierungsskript für Alltag, Browser & Multimedia
-# Erstellt von Detlef Lübben – inklusive ZRAM, Swappiness, CPU-Tuning und Audio-Priorisierung
+# Erstellt von Detlef Lübben, geprüft und optimiert mit KI – inklusive ZRAM, Swappiness, CPU-Tuning und Audio-Priorisierung
 
 clear
 echo "🔧 Starte Optimierung für Raspberry Pi 5..."
