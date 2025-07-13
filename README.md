@@ -1,4 +1,4 @@
-# 👋 Moin! Ich bin Detlef
+# 👋 Moin!
 
 **English version below / Englische Version weiter unten**
 
